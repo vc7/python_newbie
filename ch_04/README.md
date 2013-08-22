@@ -7,4 +7,8 @@ Chapter 4
 ## 4.2 `for` Statement
 `for ... in ...`
 
+## 4.3 The `range()` Function
+* Basic: `range(n)`
+* Other see [doc](http://docs.python.org/2/library/functions.html#range).
+* And combine the usages of `range()` and `len()`.
 
